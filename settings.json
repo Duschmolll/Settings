@@ -1,0 +1,24 @@
+{
+    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 15,
+    "security.workspace.trust.untrustedFiles": "open",
+    "git.confirmSync": false,
+    "excalidraw.theme": "dark",
+    "editor.fontLigatures": true,
+    "editor.formatOnSave": true,
+    "editor.rulers": [
+        100
+    ],
+    "omnisharp.useModernNet": false,
+    "omnisharp.path": "latest",
+    "[python]": {
+        "editor.formatOnSave": true
+    },
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "jupyter.askForKernelRestart": false,
+    "explorer.confirmDragAndDrop": false,
+    "terminal.integrated.inheritEnv": false,
+    "workbench.preferredDarkColorTheme": "One Dark Pro Darker",
+    "git.openRepositoryInParentFolders": "always"
+}
